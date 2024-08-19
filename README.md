@@ -43,7 +43,7 @@ A ARSP-REDE é uma ferramenta poderosa e versátil que atende às necessidades d
 ## Instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/cesarneves-security/blooker.git
+https://github.com/cesarneves-security/ARSP-REDE.git
 ```
 2. Navegue até o diretório do projeto:
 ```bash
